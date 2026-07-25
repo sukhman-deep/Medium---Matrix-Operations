@@ -1,3 +1,13 @@
+# MATRIX OPERATIONS IN C
+ this project performs :
+ -matrix addition 
+ -matrix multiplication 
+ -matrix transpose
+
+
+
+## source code
+```c
 #include <stdio.h>
 
 void inputMatrix(int mat[10][10], int rows, int cols);
